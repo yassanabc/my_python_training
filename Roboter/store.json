@@ -1,8 +1,4 @@
 {
-    "restaurant":[
-        {
-            "name":"DOUTOUR",
-            "rank":"1"
-        }
-    ]
+    "doutour":1,
+    "komeda":2
 }
